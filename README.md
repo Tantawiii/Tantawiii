@@ -83,8 +83,9 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tantawiiumar" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"> </a>  <a href="https://github.com/Tantawiii" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="mailto:o.tantawy.o@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/tantawiiumar" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>  
+  <a href="https://github.com/Tantawiii" target="_blank"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
+  <a href="mailto:o.tantawy.o@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
