@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 🎓 Game Developer based in Egypt with **3+ years of experience**  
-💡 Passionate about crafting engaging experiences, from **mobile 2.5D platformers** to **AR shooters**  
+💡 Passionate about crafting engaging experiences, from **mobile 2.5D/2D platformers** to **AR/VR/3D shooters**  
 🌍 Participated in multiple **global game jams** and freelance game projects  
 🎯 Obsessed with **smooth gameplay**, **creative mechanics**, and **clean code**
 
@@ -29,21 +29,21 @@
 - 🌐 Phaser (Web games)
 
 #### 🧠 Programming
-- 💻 C#, C++, Python, Rust, Java, JavaScript
+- 💻 C#, C++, Python, JavaScript
 - 🧠 Finite State Machines, DOTween, ScriptableObjects
 - 🕹 Input Systems (mobile, PC, controller)
 
 #### 💼 Systems & Mechanics
-- 🧠 Player & Enemy AI (FSMs, chase/attack logic)
-- ⚔️ Abilities (DeadEye, Invisibility, Healing, Bombs)
-- 🔫 Gun mechanics, bullet pooling, muzzle flash
+- 🧠 Player & Enemy AI
+- ⚔️ Abilities
+- 🔫 Mechanics
 - 📱 Touch input, on-screen joysticks, UI cooldowns
 - 🌍 AR (ARCore) & XR (Vuforia) Integration
 
 #### 🎨 Design & Animation
 - 🧬 Blend Trees, Animator Controller, CrossFade
 - 🪄 EaseInOutExpo transitions, procedural animation
-- 🕹 Game UI (TMPro, HUD, health bars, kill feed)
+- 🕹 Game UI, UI ToolKit
 
 ---
 
@@ -73,10 +73,10 @@
 
 ### 🏆 Achievements
 
-- 🥇 Top 5 finalist in [Game Jam Name] *(add real if any)*
+- 🥇 Ranked 2nd in Beginner's Jam Winter 2024
 - 💼 Freelance card game developed using Unity multiplayer & OOP principles
-- 🎓 Graduated from ITI .NET Full Stack program (Alexandria)
-- 🏛 Studied at AASTMT (Arab Academy for Science & Tech)
+- 🎓 Graduated from ITI 9 month program Gamd Develop track (Smart Village Branch)
+- 🏛 Studied Computer Science at AASTMT (Arab Academy for Science & Tech)
 
 ---
 
@@ -85,7 +85,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/omartantawy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/omartantawy" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:o.tantawy.o@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
