@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Omar Tantawy — Game Developer</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/OzzYLtSSigmUU/giphy.gif" width="700"/>
 </p>
 
 <p align="center">
