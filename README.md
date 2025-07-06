@@ -47,30 +47,6 @@
 
 ---
 
-### 🧪 Projects
-
-#### 🔫 Marvel Rivals Clone *(Unreal 5.5 C++)*
-- Custom **Moon Knight Ultimate** ability with ragdoll & preview system
-- HealthComponent system, animation montage triggers
-
-#### 🤖 Post-Apocalyptic 2.5D Side Scroller *(Unity 6)*
-- Female robot collecting memories
-- FSM-based animation control, DeadEye ability, seamless blend tree transitions
-
-#### 🧠 AR Shooter *(Unity + ARCore)*
-- Touch to shoot, tower placement, enemy AI, health systems
-- Network-ready structure & modular gameplay components
-
-#### 🧩 Snake Evolution Game
-- Collectibles with dynamic effects (growth, shrink, invincibility)
-- Clock-based spawning, combo system, animation logic
-
-#### ⚡ Pixel Break Clone (Bounce Remake)
-- Physics-based 2D arcade game with SFML + Box2D
-- Sharp controls, powerups, clean retro art
-
----
-
 ### 🏆 Achievements
 
 - 🥇 Ranked 2nd in Beginner's Jam Winter 2024
