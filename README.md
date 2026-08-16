@@ -1,35 +1,42 @@
-<h1 align="center">🎮 Omar Tantawy</h1>
+<h1 align="center">Omar Tantawy</h1>
 
 <p align="center">
-  <b>Game Developer • Gameplay Programmer</b>
+  <b>Game Developer | Gameplay Programmer</b>
 </p>
 
 <p align="center">
-  I build gameplay systems, mechanics, and interactive experiences with Unity, Unreal Engine, and web technologies.
+  I make games and enjoy working on the systems behind them.
+  <br>
+  Mostly Unity and C#, with experience in Unreal, Phaser, multiplayer, and AR.
 </p>
 
 <p align="center">
-  <a href="https://tantawii.itch.io/">🎮 Itch.io</a> •
-  <a href="https://www.linkedin.com/in/tantawiiumar">💼 LinkedIn</a> •
-  <a href="mailto:o.tantawy.o@gmail.com">📧 Email</a>
+  <a href="https://tantawii.itch.io/">Itch.io</a> ·
+  <a href="https://www.linkedin.com/in/tantawiiumar">LinkedIn</a> ·
+  <a href="mailto:o.tantawy.o@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-* 🎮 3+ years of game development experience
-* ⚔️ Gameplay programming, player systems, combat, abilities & enemy AI
-* 🌐 Multiplayer with **Netcode for GameObjects**
-* 🧠 State Machines, ScriptableObjects, animation & UI systems
-* 🎓 ITI Game Development graduate
-* 🏆 2nd Place — Beginner's Jam Winter 2024
+I'm a game developer from Egypt with 3+ years of experience making games, prototypes, and gameplay systems.
+
+I mainly work with Unity and C#, and I enjoy building things like player controllers, combat systems, abilities, enemy AI, UI, animation systems, and multiplayer gameplay.
+
+I've also worked with Unreal Engine 5 and C++, as well as Phaser and TypeScript for web games.
+
+I studied Computer Science at AASTMT and later completed ITI's 9 month Game Development program.
+
+I also like participating in game jams. They are a good way to experiment with ideas and actually finish something.
+
+**2nd Place, Beginner's Jam Winter 2024**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
 
-**Engines**
+**Game Engines**
 
 `Unity` `Unreal Engine 5` `Godot` `Phaser`
 
@@ -37,7 +44,7 @@
 
 `C#` `C++` `TypeScript` `JavaScript` `Python`
 
-**Gameplay & Tools**
+**Gameplay**
 
 `Netcode for GameObjects` `ScriptableObjects` `FSM` `DOTween`
 `Animator` `Blend Trees` `Input System` `UI Toolkit`
@@ -48,30 +55,32 @@
 
 ---
 
-## 🎮 Games
+## Games
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-### ⚔️ Knighthood Wannabe
+### Knighthood Wannabe
 
 <a href="https://tantawii.itch.io/knighthood-wannabe">
 <img src="https://img.itch.zone/aW1hZ2UvMzg4NTg4MC8yMzE4MzA2MC5wbmc=/250x600/e3%2FbBW.png" width="100%">
 </a>
 
-**Unity • C# • 2D Action RPG**
+**Unity · C# · 2D Action RPG**
 
-Combat • Enemy AI • Abilities • Skill Tree
+Combat, enemy AI, abilities, and progression.
 
-<a href="https://tantawii.itch.io/knighthood-wannabe">▶ Play on itch.io</a>
+<br>
+
+<a href="https://tantawii.itch.io/knighthood-wannabe">Play on itch.io</a>
 
 </td>
 
 <td width="50%" align="center">
 
-### 🚂 Choot Choot!
+### Choot Choot!
 
 <a href="https://tantawii.itch.io/choot-choot">
 <img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg5NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
@@ -79,9 +88,11 @@ Combat • Enemy AI • Abilities • Skill Tree
 
 **GameDev.js Jam 2026**
 
-Survival • Upgrades • Combat • Roguelike
+A survival game made for a game jam.
 
-<a href="https://tantawii.itch.io/choot-choot">▶ Play on itch.io</a>
+<br>
+
+<a href="https://tantawii.itch.io/choot-choot">Play on itch.io</a>
 
 </td>
 
@@ -91,7 +102,7 @@ Survival • Upgrades • Combat • Roguelike
 
 <td width="50%" align="center">
 
-### 🧩 Room Bound
+### Room Bound
 
 <a href="https://tantawii.itch.io/room-bound">
 <img src="https://img.itch.zone/aW1hZ2UvNDMxMzUwMy8yNTczNzQzNy5wbmc=/250x600/OXtX7C.png" width="100%">
@@ -99,25 +110,29 @@ Survival • Upgrades • Combat • Roguelike
 
 **Brackeys Game Jam 2026.1**
 
-Puzzle • Exploration • Interactions
+A puzzle game built around exploration and interaction.
 
-<a href="https://tantawii.itch.io/room-bound">▶ Play on itch.io</a>
+<br>
+
+<a href="https://tantawii.itch.io/room-bound">Play on itch.io</a>
 
 </td>
 
 <td width="50%" align="center">
 
-### 🏐 Estlem
+### Estlem
 
 <a href="https://tantawii.itch.io/estlem">
 <img src="https://img.itch.zone/aW1hZ2UvMzcxNDU1Ny8yMjEyMzc2Ni5wbmc=/250x600/sBTt9s.png" width="100%">
 </a>
 
-**2D Local Multiplayer**
+**Unity · 2D · Local Multiplayer**
 
-Co-op • Fast-Paced Gameplay • UI • Effects
+A small local multiplayer game.
 
-<a href="https://tantawii.itch.io/estlem">▶ Play on itch.io</a>
+<br>
+
+<a href="https://tantawii.itch.io/estlem">Play on itch.io</a>
 
 </td>
 
@@ -125,14 +140,14 @@ Co-op • Fast-Paced Gameplay • UI • Effects
 </table>
 
 <p align="center">
-  <a href="https://tantawii.itch.io/">
-    <b>🎮 See all my games on itch.io →</b>
-  </a>
+  <a href="https://tantawii.itch.io/">More games on itch.io</a>
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
+
+If you'd like to talk about game development, a project, or just exchange ideas, feel free to reach out.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tantawiiumar">
@@ -141,8 +156,4 @@ Co-op • Fast-Paced Gameplay • UI • Effects
   <a href="mailto:o.tantawy.o@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-</p>
-
-<p align="center">
-  <i>Building games, one mechanic at a time. 🎮</i>
 </p>
