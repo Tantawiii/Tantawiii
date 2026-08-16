@@ -32,22 +32,46 @@ Game development started as an interest in making games and gradually turned int
 
 ## Tech
 
-**Game Engines**
+### Game Engines
 
-`Unity` `Unreal Engine 5` `Godot` `Phaser`
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot">
+  <img src="https://img.shields.io/badge/Phaser-8C3B3B?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser">
+</p>
 
-**Languages**
+### Languages
 
-`C#` `C++` `TypeScript` `JavaScript` `Python`
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-**Gameplay**
+### Gameplay & Systems
 
-`Netcode for GameObjects` `ScriptableObjects` `FSM` `DOTween`
-`Animator` `Blend Trees` `Input System` `UI Toolkit`
+<p>
+  <img src="https://img.shields.io/badge/Netcode%20for%20GameObjects-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Netcode for GameObjects">
+  <img src="https://img.shields.io/badge/ScriptableObjects-000000?style=for-the-badge&logo=unity&logoColor=white" alt="ScriptableObjects">
+  <img src="https://img.shields.io/badge/FSM-555555?style=for-the-badge" alt="Finite State Machines">
+  <img src="https://img.shields.io/badge/DOTween-555555?style=for-the-badge" alt="DOTween">
+  <img src="https://img.shields.io/badge/Animator-555555?style=for-the-badge" alt="Animator">
+  <img src="https://img.shields.io/badge/Blend%20Trees-555555?style=for-the-badge" alt="Blend Trees">
+  <img src="https://img.shields.io/badge/Input%20System-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Input System">
+  <img src="https://img.shields.io/badge/UI%20Toolkit-000000?style=for-the-badge&logo=unity&logoColor=white" alt="UI Toolkit">
+</p>
 
-**Other**
+### Other
 
-`ARCore` `Vuforia` `Git` `GitHub`
+<p>
+  <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="ARCore">
+  <img src="https://img.shields.io/badge/Vuforia-000000?style=for-the-badge" alt="Vuforia">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
@@ -56,7 +80,7 @@ Game development started as an interest in making games and gradually turned int
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Knighthood Wannabe
 
@@ -64,43 +88,39 @@ Game development started as an interest in making games and gradually turned int
 <img src="https://img.itch.zone/aW1hZ2UvMzg4NTg4MC8yMzE4MzA2MC5wbmc=/250x600/e3%2FbBW.png" width="100%">
 </a>
 
-**Unity · C# · 2D Action RPG**
+**Unity · C#**
 
-Combat, enemy AI, abilities, and progression.
+2D Action RPG
 
 <br><br>
 
 <a href="https://tantawii.itch.io/knighthood-wannabe">
-  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Knighthood Wannabe">
+  <img src="https://img.shields.io/badge/Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Knighthood Wannabe">
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Choot Choot!
 
 <a href="https://tantawii.itch.io/choot-choot">
-<img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg5NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg4NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
 </a>
 
-**GameDev.js Jam 2026**
+**Phaser · TypeScript**
 
-A survival game made for a game jam.
+GameDev.js Jam 2026
 
 <br><br>
 
 <a href="https://tantawii.itch.io/choot-choot">
-  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Choot Choot">
+  <img src="https://img.shields.io/badge/Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Choot Choot">
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Room Bound
 
@@ -108,19 +128,19 @@ A survival game made for a game jam.
 <img src="https://img.itch.zone/aW1hZ2UvNDMxMzUwMy8yNTczNzQzNy5wbmc=/250x600/OXtX7C.png" width="100%">
 </a>
 
-**Brackeys Game Jam 2026.1**
+**Unity · C#**
 
-A puzzle game built around exploration and interaction.
+Brackeys Game Jam 2026.1
 
 <br><br>
 
 <a href="https://tantawii.itch.io/room-bound">
-  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Room Bound">
+  <img src="https://img.shields.io/badge/Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Room Bound">
 </a>
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Estlem
 
@@ -128,14 +148,14 @@ A puzzle game built around exploration and interaction.
 <img src="https://img.itch.zone/aW1hZ2UvMzcxNDU1Ny8yMjEyMzc2Ni5wbmc=/250x600/sBTt9s.png" width="100%">
 </a>
 
-**Unity · 2D · Local Multiplayer**
+**Unity · C#**
 
-A small local multiplayer game.
+2D Local Multiplayer
 
 <br><br>
 
 <a href="https://tantawii.itch.io/estlem">
-  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Estlem">
+  <img src="https://img.shields.io/badge/Play-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Estlem">
 </a>
 
 </td>
