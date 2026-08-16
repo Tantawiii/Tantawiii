@@ -105,7 +105,7 @@ Game development started as an interest in making games and gradually turned int
 ### Choot Choot!
 
 <a href="https://tantawii.itch.io/choot-choot">
-<img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg4NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg5NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
 </a>
 
 **Phaser · TypeScript**
