@@ -11,9 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://tantawii.itch.io/">Itch.io</a> ·
-  <a href="https://www.linkedin.com/in/tantawiiumar">LinkedIn</a> ·
-  <a href="mailto:o.tantawy.o@gmail.com">Email</a>
+  <a href="https://tantawii.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
+  </a>
+  <a href="https://www.linkedin.com/in/tantawiiumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:o.tantawy.o@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -62,9 +68,11 @@ Game development started as an interest in making games and gradually turned int
 
 Combat, enemy AI, abilities, and progression.
 
-<br>
+<br><br>
 
-<a href="https://tantawii.itch.io/knighthood-wannabe">Play on itch.io</a>
+<a href="https://tantawii.itch.io/knighthood-wannabe">
+  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Knighthood Wannabe">
+</a>
 
 </td>
 
@@ -80,9 +88,11 @@ Combat, enemy AI, abilities, and progression.
 
 A survival game made for a game jam.
 
-<br>
+<br><br>
 
-<a href="https://tantawii.itch.io/choot-choot">Play on itch.io</a>
+<a href="https://tantawii.itch.io/choot-choot">
+  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Choot Choot">
+</a>
 
 </td>
 
@@ -102,9 +112,11 @@ A survival game made for a game jam.
 
 A puzzle game built around exploration and interaction.
 
-<br>
+<br><br>
 
-<a href="https://tantawii.itch.io/room-bound">Play on itch.io</a>
+<a href="https://tantawii.itch.io/room-bound">
+  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Room Bound">
+</a>
 
 </td>
 
@@ -120,9 +132,11 @@ A puzzle game built around exploration and interaction.
 
 A small local multiplayer game.
 
-<br>
+<br><br>
 
-<a href="https://tantawii.itch.io/estlem">Play on itch.io</a>
+<a href="https://tantawii.itch.io/estlem">
+  <img src="https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Play Estlem">
+</a>
 
 </td>
 
@@ -130,20 +144,18 @@ A small local multiplayer game.
 </table>
 
 <p align="center">
-  <a href="https://tantawii.itch.io/">More games on itch.io</a>
+  <a href="https://tantawii.itch.io/">
+    <img src="https://img.shields.io/badge/See%20all%20games%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="More games on Itch.io">
+  </a>
 </p>
 
 ---
 
-## Contact
-
-If you'd like to talk about game development, a project, or just exchange ideas, feel free to reach out.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tantawiiumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:o.tantawy.o@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
