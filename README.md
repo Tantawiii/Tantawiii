@@ -20,17 +20,7 @@
 
 ## About Me
 
-I'm a game developer from Egypt with 3+ years of experience making games, prototypes, and gameplay systems.
-
-I mainly work with Unity and C#, and I enjoy building things like player controllers, combat systems, abilities, enemy AI, UI, animation systems, and multiplayer gameplay.
-
-I've also worked with Unreal Engine 5 and C++, as well as Phaser and TypeScript for web games.
-
-I studied Computer Science at AASTMT and later completed ITI's 9 month Game Development program.
-
-I also like participating in game jams. They are a good way to experiment with ideas and actually finish something.
-
-**2nd Place, Beginner's Jam Winter 2024**
+Game development started as an interest in making games and gradually turned into a career focused on gameplay programming. With 3+ years of experience, most of the work has been around Unity and C#, building player controllers, combat, abilities, enemy AI, UI, animation, and multiplayer systems. Along the way, projects have also involved Unreal Engine 5 and C++, as well as Phaser and TypeScript for web games and AR technologies for interactive experiences. After studying Computer Science at AASTMT and completing ITI's 9 month Game Development program, game jams and personal projects have become a big part of exploring new ideas, learning new technologies, and turning small concepts into playable games.
 
 ---
 
