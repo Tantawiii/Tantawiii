@@ -58,7 +58,7 @@
 ### ⚔️ Knighthood Wannabe
 
 <a href="https://tantawii.itch.io/knighthood-wannabe">
-<img src="YOUR_IMAGE_URL_HERE" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvMzg4NTg4MC8yMzE4MzA2MC5wbmc=/250x600/e3%2FbBW.png" width="100%">
 </a>
 
 **Unity • C# • 2D Action RPG**
@@ -74,7 +74,7 @@ Combat • Enemy AI • Abilities • Skill Tree
 ### 🚂 Choot Choot!
 
 <a href="https://tantawii.itch.io/choot-choot">
-<img src="YOUR_IMAGE_URL_HERE" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvNDUxMzc0MS8yNjkxNDg5NC5wbmc=/250x600/tvT%2BHD.png" width="100%">
 </a>
 
 **GameDev.js Jam 2026**
@@ -94,7 +94,7 @@ Survival • Upgrades • Combat • Roguelike
 ### 🧩 Room Bound
 
 <a href="https://tantawii.itch.io/room-bound">
-<img src="YOUR_IMAGE_URL_HERE" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvNDMxMzUwMy8yNTczNzQzNy5wbmc=/250x600/OXtX7C.png" width="100%">
 </a>
 
 **Brackeys Game Jam 2026.1**
@@ -110,7 +110,7 @@ Puzzle • Exploration • Interactions
 ### 🏐 Estlem
 
 <a href="https://tantawii.itch.io/estlem">
-<img src="YOUR_IMAGE_URL_HERE" width="100%">
+<img src="https://img.itch.zone/aW1hZ2UvMzcxNDU1Ny8yMjEyMzc2Ni5wbmc=/250x600/sBTt9s.png" width="100%">
 </a>
 
 **2D Local Multiplayer**
